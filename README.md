@@ -18,13 +18,13 @@ Instalar los paquetes de npm
 ```bash
 npm install 
 ```
-Moverse a la carpeta de backend y arrancar el servidor 
+Moverse a la carpeta de api y arrancar el servidor 
 
 ```bash
 npm run build
 npm run dev 
 ```
-Moverse a la carpeta de frontend y arrancar el cliente 
+Moverse a la carpeta de client y arrancar el cliente 
 
 ```bash
 npm start 
